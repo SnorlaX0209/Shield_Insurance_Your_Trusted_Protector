@@ -94,4 +94,7 @@ The primary goal of this project is to develop a robust, interactive dashboard t
 
     **3.** Recommendations: Actionable suggestions.
 
-    **4.** Data Modeling: Star and snowflake schema.    
+    **4.** Data Modeling: Star and snowflake schema.
+
+## Dashboard Access:       
+Explore the live Power BI dashboard here: https://app.powerbi.com/links/WldRlQT73m?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=ae999908-5ea0-4c08-99b1-db6ca9f45c86
