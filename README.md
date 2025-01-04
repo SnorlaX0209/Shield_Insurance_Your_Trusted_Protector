@@ -1,3 +1,6 @@
+## This project is a part of the Data Analytics Virtual Internship at Codebasics.
+Listen to the Audio Presentation here: https://www.linkedin.com/feed/update/urn:li:activity:7281265192515117056/
+
 ## Project Overview:
 This project focuses on analyzing Shield Insurance's operational data to provide actionable insights that will support data-driven decision-making. By utilizing Microsoft Power BI, we aim to create an interactive dashboard that enables a comprehensive view of key metrics, such as customer count, revenue generation, growth rates, and customer segmentation. The dashboard will also allow us to track trends, identify areas for improvement, and optimize the company's performance.
 
